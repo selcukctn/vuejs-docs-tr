@@ -36,47 +36,47 @@ shuffleMembers(membersPartnerData as Member[])
 <template>
   <div class="TeamPage">
     <TeamHero>
-      <template #title>Meet the Team</template>
+      <template #title>Ekiple Tanışın</template>
       <template #lead>
-        The development of Vue and its ecosystem is guided by an
-        international team, some of whom have chosen to be
-        <span class="nowrap">featured below.</span>
+        Vue ve ekosisteminin geliştirilmesi, bazıları
+        <span class="nowrap">aşağıda yer alan</span>
+        uluslararası bir ekip tarafından yönlendirilmektedir.
       </template>
 
       <template #action>
         <VTLink
           href="https://github.com/vuejs/governance/blob/master/Team-Charter.md"
         >
-          Learn more about teams
+          Ekipler hakkında daha fazla bilgi
         </VTLink>
       </template>
     </TeamHero>
 
     <TeamList :members="(membersCoreData as Member[])">
-      <template #title>Core Team Members</template>
+      <template #title>Çekirdek Ekip Üyeleri</template>
       <template #lead>
-        Core team members are those who are actively involved in the
-        maintenance of one or more core projects. They have made
-        significant contributions to the Vue ecosystem, with a long term
-        commitment to the success of the project and its users.
+        Çekirdek ekip üyeleri, bir veya daha fazla çekirdek projenin
+        bakımında aktif olarak görev alan kişilerdir. Vue ekosistemine
+        önemli katkılar sağlamışlardır ve projenin ve kullanıcılarının
+        başarısına uzun vadeli bir bağlılık gösterirler.
       </template>
     </TeamList>
 
     <TeamList :members="(membersEmeritiData as Member[])">
-      <template #title>Core Team Emeriti</template>
+      <template #title>Onursal Çekirdek Ekip Üyeleri</template>
       <template #lead>
-        Here we honor some no-longer-active core team members who have made
-        valuable contributions in the past.
+        Burada, geçmişte değerli katkılarda bulunmuş ancak artık aktif
+        olmayan bazı çekirdek ekip üyelerini onurlandırıyoruz.
       </template>
     </TeamList>
 
     <TeamList :members="(membersPartnerData as Member[])">
-      <template #title>Community Partners</template>
+      <template #title>Topluluk Ortakları</template>
       <template #lead>
-        Some members of the Vue community have so enriched it, that they
-        deserve special mention. We've developed a more intimate
-        relationship with these key partners, often coordinating with them
-        on upcoming features and news.
+        Vue topluluğunun bazı üyeleri, topluluğu o kadar zenginleştirmiştir
+        ki özel olarak anılmayı hak ederler. Bu kilit ortaklarla daha yakın
+        bir ilişki geliştirdik ve yaklaşan özellikler ile duyurular konusunda
+        sıklıkla onlarla koordinasyon sağlıyoruz.
       </template>
     </TeamList>
   </div>
