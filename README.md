@@ -1,28 +1,33 @@
 # vuejs.org
 
-## Contributing
+## Katkıda Bulunma
 
-This site is built with [VitePress](https://github.com/vuejs/vitepress) and depends on [@vue/theme](https://github.com/vuejs/vue-theme). Site content is written in Markdown format located in `src`. For simple edits, you can directly edit the file on GitHub and generate a Pull Request.
+Bu site [VitePress](https://github.com/vuejs/vitepress) ile oluşturulmuştur ve [@vue/theme](https://github.com/vuejs/vue-theme) paketine bağlıdır.  
+Site içeriği, `src` dizininde bulunan **Markdown** dosyaları olarak yazılmıştır.  
+Basit düzenlemeler için dosyayı doğrudan GitHub üzerinde düzenleyip bir **Pull Request** oluşturabilirsiniz.
 
-For local development, [pnpm](https://pnpm.io/) is preferred as package manager:
+Yerel geliştirme için paket yöneticisi olarak [pnpm](https://pnpm.io/) tercih edilmektedir:
 
-```bash
-pnpm i
-pnpm run dev
-```
+    pnpm i
+    pnpm run dev
 
-This project requires Node.js to be `v18` or higher. And it is recommended to enable corepack:
+Bu proje için **Node.js v18 veya üzeri** gereklidir.  
+Ayrıca **corepack**’in etkinleştirilmesi önerilir:
 
-```bash
-corepack enable
-```
+    corepack enable
 
-## Working on the content
+## İçerik Üzerinde Çalışma
 
-- See VitePress docs on supported [Markdown Extensions](https://vitepress.dev/guide/markdown) and the ability to [use Vue syntax inside markdown](https://vitepress.dev/guide/using-vue).
+- Desteklenen **Markdown uzantıları** ve Markdown içinde **Vue sözdizimi kullanma** imkânları için VitePress dokümantasyonuna bakın:  
+  https://vitepress.dev/guide/markdown  
+  https://vitepress.dev/guide/using-vue
 
-- See the [Writing Guide](https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md) for our rules and recommendations on writing and maintaining documentation content.
+- Dokümantasyon içeriğini yazma ve sürdürme ile ilgili kural ve öneriler için  
+  **Writing Guide**’a bakın:  
+  https://github.com/vuejs/docs/blob/main/.github/contributing/writing-guide.md
 
-## Working on the theme
+## Tema Üzerinde Çalışma
 
-If changes need to be made for the theme, check out the [instructions for developing the theme alongside the docs](https://github.com/vuejs/vue-theme#developing-with-real-content).
+Temada değişiklik yapılması gerekiyorsa,  
+dokümantasyon ile birlikte temayı geliştirmeye yönelik yönergeler için şu rehberi inceleyin:  
+https://github.com/vuejs/vue-theme#developing-with-real-content
