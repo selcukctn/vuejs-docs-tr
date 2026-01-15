@@ -57,13 +57,13 @@ const filtered = computed(() => {
 <template>
   <div id="api-index">
     <div class="header">
-      <h1>API Reference</h1>
+      <h1>API Referansı</h1>
       <div class="api-filter">
-        <label for="api-filter">Filter</label>
+        <label for="api-filter">Filtre</label>
         <input
           ref="search"
           type="search"
-          placeholder="Enter keyword"
+          placeholder="Anahtar kelime girin"
           id="api-filter"
           v-model="query"
         />
@@ -93,10 +93,11 @@ const filtered = computed(() => {
     </div>
 
     <div v-if="!filtered.length" class="no-match">
-      No API matching "{{ query }}" found.
+      "{{ query }}" ile eşleşen bir API bulunamadı.
     </div>
   </div>
 </template>
+
 
 <style scoped>
 #api-index {
