@@ -1,6 +1,6 @@
 ---
 page: true
-title: Meet the Team
+title: Ekiple Tanışın
 ---
 
 <script setup>
