@@ -1,47 +1,56 @@
-# Code Of Conduct {#code-of-conduct}
+# Davranış Kuralları {#code-of-conduct}
 
-## Our Pledge {#our-pledge}
+## Taahhüdümüz {#our-pledge}
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, political party, or sexual identity and orientation. Note, however, that religion, political party, or other ideological affiliation provide no exemptions for the behavior we outline as unacceptable in this Code of Conduct.
+Açık ve herkes için kapsayıcı bir ortam oluşturmak amacıyla, katkıda bulunanlar ve proje yöneticileri olarak; yaş, beden ölçüsü, engellilik durumu, etnik köken, biyolojik cinsiyet özellikleri, cinsiyet kimliği ve ifadesi, deneyim düzeyi, eğitim durumu, sosyo-ekonomik durum, uyruk, dış görünüş, ırk, din, siyasi görüş veya parti, cinsel kimlik ve yönelim fark etmeksizin herkes için tacizden uzak bir katılım ortamı sağlamayı taahhüt ederiz.  
+Ancak din, siyasi görüş veya herhangi bir ideolojik aidiyet; bu Davranış Kuralları’nda kabul edilemez olarak tanımlanan davranışlar için hiçbir şekilde istisna oluşturmaz.
 
-## Our Standards {#our-standards}
+## Standartlarımız {#our-standards}
 
-Examples of behavior that contributes to creating a positive environment include:
+Olumlu bir ortamın oluşmasına katkı sağlayan davranışlara örnekler:
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- Kucaklayıcı ve kapsayıcı bir dil kullanmak  
+- Farklı bakış açılarına ve deneyimlere saygı göstermek  
+- Yapıcı eleştiriyi olgunlukla kabul etmek  
+- Topluluk için en iyisini gözetmek  
+- Diğer topluluk üyelerine karşı empati göstermek  
 
-Examples of unacceptable behavior by participants include:
+Katılımcılar için kabul edilemez davranışlara örnekler:
 
-- The use of sexualized language or imagery and unwelcome sexual attention or advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+- Cinselleştirilmiş dil veya görseller kullanmak; istenmeyen cinsel ilgi veya yaklaşımda bulunmak  
+- Trolleme, aşağılayıcı veya küçük düşürücü yorumlar ile kişisel ya da siyasi saldırılar  
+- Açık veya gizli taciz  
+- Başkalarına ait özel bilgileri (fiziksel veya elektronik adres gibi) açık izin olmadan paylaşmak  
+- Profesyonel bir ortamda makul olarak uygunsuz sayılabilecek diğer davranışlar  
 
-## Our Responsibilities {#our-responsibilities}
+## Sorumluluklarımız {#our-responsibilities}
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Proje yöneticileri, kabul edilebilir davranış standartlarını netleştirmekten sorumludur ve kabul edilemez davranışlara karşı uygun ve adil düzeltici adımlar atması beklenir.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Proje yöneticileri; bu Davranış Kuralları ile uyumlu olmayan yorumları, commit’leri, kodları, wiki düzenlemelerini, issue’ları ve diğer katkıları kaldırma, düzenleme veya reddetme; ayrıca uygunsuz, tehditkâr, saldırgan veya zararlı olarak değerlendirilen davranışlar için katkıda bulunanları geçici veya kalıcı olarak engelleme hakkına ve sorumluluğuna sahiptir.
 
-## Scope {#scope}
+## Kapsam {#scope}
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Bu Davranış Kuralları, hem proje alanlarında hem de bir kişinin projeyi veya topluluğu temsil ettiği kamusal alanlarda geçerlidir.  
+Projeyi veya topluluğu temsil etmeye örnekler: resmî bir proje e-posta adresi kullanmak, resmî bir sosyal medya hesabı üzerinden paylaşım yapmak veya çevrim içi ya da yüz yüze bir etkinlikte yetkili temsilci olarak yer almak.  
+Bir projenin nasıl temsil edildiği, proje yöneticileri tarafından ayrıca tanımlanabilir ve netleştirilebilir.
 
-## Enforcement {#enforcement}
+## Uygulama {#enforcement}
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at community@vuejs.org. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Taciz edici, istismar içeren veya kabul edilemez davranış örnekleri, community@vuejs.org adresinden proje ekibine bildirilebilir.  
+Tüm şikâyetler incelenecek ve değerlendirilecek; duruma uygun ve gerekli görülen bir yanıt verilecektir.  
+Proje ekibi, olayı bildiren kişinin gizliliğini korumakla yükümlüdür.  
+Uygulamaya dair daha ayrıntılı politikalar ayrıca yayımlanabilir.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Davranış Kuralları’nı iyi niyetle uygulamayan veya uygulamakta başarısız olan proje yöneticileri, proje liderliğinin diğer üyeleri tarafından belirlenecek geçici veya kalıcı yaptırımlarla karşılaşabilir.
 
-## Attribution {#attribution}
+## Atıf {#attribution}
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+Bu Davranış Kuralları,  
+[Contributor Covenant][homepage] sürüm 1.4 temel alınarak uyarlanmıştır:  
+https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
+Bu kurallar hakkında sık sorulan sorular için:  
+https://www.contributor-covenant.org/faq
 
 [homepage]: https://www.contributor-covenant.org
